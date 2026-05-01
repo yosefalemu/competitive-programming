@@ -16,5 +16,3 @@ class Solution:
                 cols[col].add(curr_val)
                 boxes[box_index].add(curr_val)
         return True
-
-        
